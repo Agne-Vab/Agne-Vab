@@ -2,7 +2,7 @@
 
 📈 Discovered a growing fascination for analytics during studies and on-the-job experiences.  
 💻 I'm currently working on the Data analytics course at Turing College.  
-🌱 I'm currently learning more about spreadsheets.
+🌱 I'm currently learning more about spreadsheets.  
 ⚡ Fun fact - I can talk a little bit in Japanese. 🎌 
 
 ## Languages and Tools I'm learning to use
