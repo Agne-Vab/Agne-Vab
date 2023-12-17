@@ -1,11 +1,10 @@
-🕹️ Background:
+## I'm Agnė, TL learning how to become a data analyst
 
-Over 5 years Customer Support field, progressing between companies from just a CS Specialist to Shift Manager and now Team Lead in the dynamic game industry startup.
-Educational foundation with a degree in Marketing, blending the initial love for mathematics and the arts. 
+📈 Discovered a growing fascination for analytics during studies and on-the-job experiences.  
+🌱 I'm currently learning Data analytics at Turing College.  
+⚡ Fun fact - I can talk a little bit in Japanese. 🎌 
 
-📈 Analytics Enthusiast:
-
-Discovered a growing fascination for analytics during studies and on-the-job experiences.
-Earned a Google Analytics certificate to start exploring the field.
-Actively learning Python to enhance data analysis capabilities.
-Seeking opportunities to apply and deepen analytical skills in my current role already.
+## Languages and Tools I'm learning to use
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
