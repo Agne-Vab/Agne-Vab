@@ -6,12 +6,14 @@
   </ul>
 </div>
 
-## On a path to becoming a data analyst :female_detective:
-
-📈 Discovered a growing fascination for analytics during studies and on-the-job experiences.  
-💻 I'm currently working on the Data analytics course at Turing College.  
-🌱 Right now, I'm learning more about spreadsheets.  
-⚡ Fun fact - I can talk a little bit in Japanese. 🎌 
+![Detective Pikachu GIF](https://media.giphy.com/media/NS7gPxeumewkWDOIxi/giphy.gif)
+## On a path to become a data detective :female_detective:
+🤓 I have loved math since a young age.<br>
+📈 During my bachelor studies, I discovered a growing fascination for analytics. <br>
+💻 I'm currently enrolled in the Data Analytics course at Turing College.  <br>
+🌱 Right now, I'm learning more about Python libraries.  <br>
+👔 Currently, I work as a CS TL at eneba. <br>
+⚡ Fun fact - I can talk a little bit in Japanese. 🎌 <br>
 
 ## Languages and Tools I'm learning to use
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
