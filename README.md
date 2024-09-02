@@ -1,4 +1,12 @@
-## I'm Agnė, TL learning how to become a data analyst
+<div id="user-content-toc">
+  <ul align="left" style="list-style: none;">
+    <summary>
+      <h1> Hello there, I'm Agne!</h1> <br>
+    </summary>
+  </ul>
+</div>
+
+## On a path to becoming a data analyst :female_detective:
 
 📈 Discovered a growing fascination for analytics during studies and on-the-job experiences.  
 💻 I'm currently working on the Data analytics course at Turing College.  
