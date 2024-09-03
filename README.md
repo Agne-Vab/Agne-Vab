@@ -26,4 +26,7 @@
 <img align="left" alt="powerbi" height="40px" src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg" />
 <img align="left" alt="Google Sheets" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/49px-Google_Sheets_logo_%282014-2020%29.svg.png" />
 <img align="left" alt="Excel" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" /> 
-<img align="left" alt="Excel" height="40px" src="https://d2o3top45uowdm.cloudfront.net/media/8CD47F53-7BB3-407A-BFE897A72BCDF5D6/FD21379F-6371-45D7-9291024EFCF83F16/webimage-84001FC9-43E6-484A-AAB8910DFD3E0610.png" /> 
+<img align="left" alt="Excel" height="40px" src="https://d2o3top45uowdm.cloudfront.net/media/8CD47F53-7BB3-407A-BFE897A72BCDF5D6/FD21379F-6371-45D7-9291024EFCF83F16/webimage-84001FC9-43E6-484A-AAB8910DFD3E0610.png" /> <br> <br>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Agne-Vab&theme=dracula&border_radius=0&card_width=625&card_height=200&background=0D1117)](https://git.io/streak-stats)
