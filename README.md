@@ -16,7 +16,7 @@
 
 ## Tools I can use
 <img align="left" alt="python" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" />
-<img align="left" alt="vscode" height="40px" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" />
+<img align="left" alt="vscode" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="jupiter" height="40px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlquQbehFaMuUwUN32KhAS4AxK7WTUtKuZBQ&s"/>
 <img align="left" alt="bigquery" height="40px" src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" />
 <img align="left" alt="SQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
