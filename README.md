@@ -10,8 +10,7 @@
 ## On a path to become a data detective :female_detective:
 🤓 I have loved math since a young age.<br>
 📈 During my bachelor studies, I discovered a growing fascination for analytics. <br>
-💻 I'm currently enrolled in the Data Analytics program at [Turing College](https://www.turingcollege.com/data-analytics).  <br>
-🌱 Right now, I started to learn about machine learning on Python.  <br>
+💻 I finished the Data Analytics program at [Turing College](https://www.turingcollege.com/data-analytics).  <br>
 👔 Currently, I work as a Customer Support Team Lead at eneba. <br>
 ⚡ Fun fact - I can talk a little bit in Japanese. 🎌 <br>
 
